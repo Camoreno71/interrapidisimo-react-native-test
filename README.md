@@ -1,0 +1,1 @@
+# interrapidisimo-react-native-test
